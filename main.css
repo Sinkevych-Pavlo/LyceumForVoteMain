@@ -6,8 +6,6 @@
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    max-width: 100vw;
-    overflow-x: hidden;
 }
 p,a,h1{
     font-family: 'Inter', sans-serif;
